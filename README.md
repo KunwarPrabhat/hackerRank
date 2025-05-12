@@ -14,9 +14,9 @@ This repo is a personal archive of coding challenges and exercises I've solved o
     ├── Algorithms/
     ├── DataStructures/
     ├── Languages/
-    ├── Mathematics/
-    └── Miscellaneous/
-    
+    ├── Linux Shell
+    ├── SQL
+
 
 > Each folder contains clearly named files with code solutions and may include comments for better understanding.
 
