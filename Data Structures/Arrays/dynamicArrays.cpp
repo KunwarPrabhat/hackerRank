@@ -26,18 +26,3 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
        } 
     return answers;
 }
-
-int main()
-{
-   int n, q;
-cin >> n >> q;
-vector<vector<int>> queries(q, vector<int>(3));
-for (int i = 0; i < q; ++i) {
-    cin >> queries[i][0] >> queries[i][1] >> queries[i][2];
-}
-vector<int> result = dynamicArray(n, queries);
-for (int ans : result) {
-    cout << ans << endl;
-}
-
-}
