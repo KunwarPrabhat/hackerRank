@@ -43,23 +43,4 @@ Solutions are written in the most suitable language per challenge.
 
 ---
 
-## 🤝 Contributions
-
-Have a better solution or found an issue?
-
-- Fork this repo 🔧  
-- Create a branch ✂️  
-- Submit a pull request 📤
-
-All contributions are welcome!
-
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](./LICENSE).  
-Use it freely with proper attribution.
-
----
-
 > _Keep learning. Keep coding. 💻_
