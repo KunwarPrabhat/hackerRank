@@ -56,3 +56,4 @@ vector<int> rotateLeft(int d, vector<int> arr) {
     reverse(arr, 0, n - 1);     // Reverse the whole array
     return arr;
 }
+//hi there
